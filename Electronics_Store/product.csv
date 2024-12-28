@@ -1,20 +1,20 @@
-﻿Product ID,Product,Category,Brand
-1,USB-C Charging Cable,Cable,
-2,Bose SoundSport Headphones,Headphones,Bose
-3,Google Phone,Phone,Google
-4,Wired Headphones,Headphones,
-5,Apple Macbook Pro Laptop,Laptop,Apple
-6,Lightning Charging Cable,Cable,Apple
-7,LG 27in 4K Gaming Monitor,Monitor,LG
-8,AA Batteries (4-pack),Battery,
-9,Apple Airpods Headphones,Headphones,Apple
-10,AAA Batteries (4-pack),Battery,
-11,Apple iPhone,Phone,iPhone
-12,LG Flatscreen TV,TV,LG
-13,LG 27in FHD Monitor,Monitor,LG
-14,LG 20in Monitor,Monitor,LG
-15,LG Dryer,Dryer,LG
-16,Lenovo ThinkPad Laptop,Laptop,Lenovo
-17,Vareebadd Phone,Phone,Vareebadd
-18,LG Washing Machine,Washing Machine,LG
-19,LG 34in Ultrawide Monitor,Monitor,LG
+Product ID,Brand,Category,Product,Cost
+8,,Battery,AA Batteries (4-pack),1.61
+1,,Cable,USB-C Charging Cable,5.02
+18,LG,Washing Machine,LG Washing Machine,251.89
+7,LG,Monitor,LG 27in 4K Gaming Monitor,163.72
+16,Lenovo,Laptop,Lenovo ThinkPad Laptop,419.81
+5,Apple,Laptop,Apple Macbook Pro Laptop,713.69
+12,LG,TV,LG Flatscreen TV,125.95
+4,,Headphones,Wired Headphones,5.03
+15,LG,Dryer,LG Dryer,251.89
+10,,Battery,AAA Batteries (4-pack),1.26
+9,Apple,Headphones,Apple Airpods Headphones,62.97
+6,Apple,Cable,Lightning Charging Cable,6.28
+11,iPhone,Phone,Apple iPhone,293.87
+3,Google,Phone,Google Phone,251.89
+13,LG,Monitor,LG 27in FHD Monitor,62.97
+17,Vareebadd,Phone,Vareebadd Phone,167.93
+14,LG,Monitor,LG 20in Monitor,46.18
+2,Bose,Headphones,Bose SoundSport Headphones,41.98
+19,LG,Monitor,LG 34in Ultrawide Monitor,159.53
